@@ -4,6 +4,9 @@ This is a bot for discord. It listens for the word 'pipi' and replies with copyp
 
 Information on the origin of this can be found here: https://www.reddit.com/r/HobbyDrama/comments/j3h741/chess_grandmaster_accused_of_cheating_responds/
 
+Support me in doing stupid and occasionally funny things:
+https://www.buymeacoffee.com/christophed
+
 ## Downloading and installing the bot
 
 If you would like to download this and run it in your server, then:
