@@ -6,21 +6,25 @@ Information on the origin of this can be found here: https://www.reddit.com/r/Ho
 
 ## Downloading and installing the bot
 
-If you would like to download this and run it in your server, then:
-- After first cloning the repo, run `npm i` from the terminal to install the dependencies
-- Add an auth.json file containing the following: 
+In order to run this application, you must have node.js installed on your computer.
+
+If you would like to download this and run it in your computer, then:
+-   After first cloning the repo, run `npm i` from the terminal to install the dependencies
+-   Add a .env file containing the following:
+
 ```
-{
-    "token": "[your auth token]"
-}
+TOKEN='[your auth token]'
 ```
-- running the command `node bot` in the terminal will start it up
+
+Running the command `node bot` in the terminal will start it up
 
 ## Generating your token
-Information on setting up the bot's account can be found here:
+
+Information on setting up the bot's account, and where to find the bot's token can be found here:
 https://discordpy.readthedocs.io/en/stable/discord.html
 
 ## License
+
 This project is licensed under the MIT license
 
 ## Author
