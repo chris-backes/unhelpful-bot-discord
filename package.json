@@ -1,7 +1,7 @@
 {
-  "name": "petrosian-discord-bot",
+  "name": "unhelpful-discord-bot",
   "version": "1.0.0",
-  "description": "posts copypasta from Tigran Petrosian",
+  "description": "does not do anyhting helpful",
   "main": "bot.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
