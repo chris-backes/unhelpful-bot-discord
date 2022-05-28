@@ -1,8 +1,16 @@
-# Petrosian Bot
+# The Unhelpful Discord Bot
 
-This is a bot for discord. It listens for the word 'pipi' and replies with copypasta from Tigran Petrosian.
+This is a bot for discord. It does nothing helpful.
 
-Information on the origin of this can be found here: https://www.reddit.com/r/HobbyDrama/comments/j3h741/chess_grandmaster_accused_of_cheating_responds/
+## Features
+
+### Rock, Paper, Scissors
+
+Typing `!rps [option]` will call the bot and randomly select one of the three options. Wins and losses are stored in a JSON file.
+
+### Responses
+
+It will describe the game of chess (incorrectly) if it detects the word 'chess' and has a random chance to reply. 
 
 ## Downloading and installing the bot
 
