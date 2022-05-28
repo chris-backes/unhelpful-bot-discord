@@ -23,6 +23,7 @@ If you would like to download this and run it in your computer, then:
 ```
 TOKEN='[your auth token]'
 ```
+- Add a db.json file and type '{}' in it.
 
 Running the command `node bot` in the terminal will start it up
 
